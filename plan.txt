@@ -1,0 +1,5 @@
+create a client 
+every time when client draws store the x y coords of the client and then send it to server
+after sending to server let server broadcast the change to all of its client sockets
+let client receive the message
+draw it
